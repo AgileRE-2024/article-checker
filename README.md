@@ -1,5 +1,7 @@
 # CARINA: Abstract Structure Recommendation
 
+[![N|Solid](https://automationpanda.com/wp-content/uploads/2017/09/django-logo-negative.png?w=65)](https://www.djangoproject.com/)
+
 ## Project Description
 
 CARINA is a web-based application that uses Natural Language Processing (NLP) methods, specifically multiclass text classification, to classify whether the structure of an abstract is correctly formatted. The application processes input abstracts and outputs a semi-structured abstract consisting of five key sections:
@@ -24,6 +26,13 @@ This project expects user to have 3 type of input from their abstract:
    - **Title**
    - **Abstract**
    - **Keywords**
+
+## Tech
+
+- [Django] - based Backend using [[Python](https://www.python.org/)]
+- [HTML] - structured the website
+- [CSS] - styled the website
+- [JavaScript] - made interaction through the website
 
 ## Installation Instructions
 
